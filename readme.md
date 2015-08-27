@@ -7,12 +7,44 @@ date:   27 Aug 2015
 This repository contains the main text items for the MCR website.
 This information will probably need updating fairly regularly.
 
-# Main pages
+# Migration from old website
 
-Some pages, such as the freshers page, will need updating roughly once per year.
+template
+:   Hard coded in the new site. The site must be rebuilt to change it.
 
-## Freshers page
+subsite
+:   There is a whole section of the site devoted to this now.
 
-# Events
+widget
+:   Self-contained, and can be moved wherever.
 
-The text concerning the events is not managed through here.
+git
+:   Stored (and editable) on github.
+
+Generally the most frequently edited contents should be on git or a subsite, and the rest in widgets & templates.
+
+## About
+
+| Page                | Now     |
+|---------------------+---------|
+| committee           | widget  |
+| election_candidates | subsite |
+| elections           | github  |
+| grad_tutors         | widget  |
+| map                 | widget  |
+| room                | github  |
+| minutes             | subsite |
+| about               | widget  |
+
+## Accommodation
+
+| Page                | Now       |
+|---------------------+-----------|
+| costs               | github?   |
+| disability          | merged    |
+| general             | github    |
+| practical_aspects   | github    |
+| reviews             | subsite   |
+| specialarrangements | duplicate |
+
+
