@@ -47,6 +47,23 @@ Generally the most frequently edited contents should be on git or a subsite, and
 | reviews             | subsite   |
 | specialarrangements | duplicate |
 
+## Current students
+
+| Page            | Now             |
+|-----------------+-----------------|
+| _               | deprecated      |
+| careers         | github          |
+| contact_numbers | widget          |
+| ecsu_shop       | widget          |
+| formal_hall     | github          |
+| gym             | github/subsite? |
+| laundry         | duplicate       |
+| magazines       | subsite/widget  |
+| mayball         | github          |
+| societies       | github          |
+| sport           | github          |
+| stash           | github/subsite? |
+
 ## Freshers
 
 | Page    | Now     |

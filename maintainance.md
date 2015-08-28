@@ -13,9 +13,10 @@ likely to be either maintenance, housekeeping or the computing office…
 
 If something in a college property breaks and needs replacing/fixing,
 then you should contact maintenance. The easiest way to do this is by
-the shiny and wonderful new College maintenance log. Go to
+the shiny and wonderful new College maintenance log. Either go to
 [www.emma.cam.ac.uk](http://www.emma.cam.ac.uk), log into Raven, and
-click on the spanner in the top right hand corner.
+click on the spanner in the top right hand corner, or just click
+[here](https://www.emma.cam.ac.uk/apps/maintenance/).
 
 The college maintenance department are committed to keeping their houses
 in good working order, and will normally respond promptly to any

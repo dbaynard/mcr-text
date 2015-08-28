@@ -97,6 +97,10 @@ washed for them at the hostel laundry in college (staircase H). This is
 regardless of whether the college house you live in has a washing
 machine fitted or not.
 
+Washing is dropped off in the laundry in the basement of the hostel and can be
+picked up two days later. All clothes are washed at 40 degrees and
+tumble-dried. Laundry bags can be purchased from the laundry for £3.
+
 If anyone living in private accommodation would like to use the hostel
 laundry, they can do so on payment of 15 pounds per term. Please contact
 the [Bursar](mailto:bursar@emma.cam.ac.uk) if you would like to set up
@@ -106,11 +110,13 @@ Self service washing machines and dryers are located in North Court,and
 may be used by anyone. However, they need to be booked in advance using
 the sheet in the Porters' Lodge. Laundry 1 and Laundry 2 are for
 undergraduates and graduates and include a washing machine and dryer.
-Laundry 3 can only be booked by graduates but only includes use of a
-washing machine.
+Laundry 3 can only be booked by graduates.
 
 Most external College properties are equipped with washing machines and
 dryers.
+
+In addition to this, there are also washing machines in a number of the
+graduate houses.
 
 ## Access to Rooms by College Staff
 
