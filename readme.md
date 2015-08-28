@@ -47,4 +47,11 @@ Generally the most frequently edited contents should be on git or a subsite, and
 | reviews             | subsite   |
 | specialarrangements | duplicate |
 
+## Freshers
+
+| Page    | Now     |
+|---------+---------|
+| guide   | subsite |
+| week    | github  |
+| welcome | widget  |
 
