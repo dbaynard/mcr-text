@@ -55,3 +55,21 @@ Generally the most frequently edited contents should be on git or a subsite, and
 | week    | github  |
 | welcome | widget  |
 
+## Misc
+
+| Page                 | Now        |
+|----------------------+------------|
+| main                 | deprecated |
+| maintenance          | deprecated |
+| mcr_constitution     | widget     |
+| menus                | widget     |
+| member_services      | subsite    |
+| bulletin             | subsite    |
+| mcr_documents        | deprecated |
+| presidents_reports   | subsite    |
+| privacy_policy       | widget     |
+| search               | widget     |
+| sidebar              | widget     |
+| grad_app             | widget     |
+| example_content      | deprecated |
+| prospective_glossary | github     |
