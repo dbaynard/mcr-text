@@ -1,7 +1,7 @@
 ---
-title:  About
-author: MCR Committee
-date:   27 Aug 2015
+title:  About  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # About

@@ -1,7 +1,7 @@
 ---
-title:  Housing
-author: MCR Committee
-date:   27 Aug 2015
+title:  Housing  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # An Overview of College Housing

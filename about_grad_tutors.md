@@ -1,7 +1,7 @@
 ---
-title:  The Graduate Tutors
-author: MCR Committee
-date:   27 Aug 2015
+title:  The Graduate Tutors  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 `
 # The Graduate Tutors

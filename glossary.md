@@ -1,7 +1,7 @@
 ---
-title:  Glossary
-author: MCR Committee
-date:   28 Aug 2015
+title:  Glossary  
+author: MCR Committee  
+date:   28 Aug 2015  
 ...
 
 # Glossary

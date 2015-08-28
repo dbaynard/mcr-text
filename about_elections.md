@@ -1,7 +1,7 @@
 ---
-title:  Elections to the MCR Committee
-author: MCR Committee
-date:   27 Aug 2015
+title:  Elections to the MCR Committee  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # Elections to the MCR Committee

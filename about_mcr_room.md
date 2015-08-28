@@ -1,7 +1,7 @@
 ---
-title:  MCR (room)
-author: MCR Committee
-date:   27 Aug 2015
+title:  MCR (room)  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # The MCR (Room)

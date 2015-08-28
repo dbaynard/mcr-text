@@ -1,7 +1,7 @@
 ---
-title:  Rent
-author: MCR Committee
-date:   27 Aug 2015
+title:  Rent  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # Rents and Charges

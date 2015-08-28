@@ -1,7 +1,7 @@
 ---
-title:  Freshers
-author: MCR Committee
-date:   28 Aug 2015
+title:  Freshers  
+author: MCR Committee  
+date:   28 Aug 2015  
 ...
 
 # Freshers’ Week 2014

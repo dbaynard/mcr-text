@@ -1,7 +1,7 @@
 ---
-title:  Readme
-author: David Baynard
-date:   27 Aug 2015
+title:  Readme  
+author: David Baynard  
+date:   27 Aug 2015  
 ...
 
 This repository contains the main text items for the MCR website.

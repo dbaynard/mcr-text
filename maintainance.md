@@ -1,7 +1,7 @@
 ---
-title:  Fixing things!
-author: MCR Committee
-date:   27 Aug 2015
+title:  Fixing things!  
+author: MCR Committee  
+date:   27 Aug 2015  
 ...
 
 # Fixing things!
