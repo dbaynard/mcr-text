@@ -76,6 +76,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 
 | Page                 | Now        |
 |----------------------+------------|
+| css                  | deprecated |
 | main                 | deprecated |
 | maintenance          | deprecated |
 | mcr_constitution     | widget     |
@@ -90,3 +91,6 @@ Generally the most frequently edited contents should be on git or a subsite, and
 | grad_app             | widget     |
 | example_content      | deprecated |
 | prospective_glossary | github     |
+| website_credits      | widget     |
+| why_emma             | github     |
+| treasurers_reports   | subsite    |
