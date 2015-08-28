@@ -94,3 +94,20 @@ Generally the most frequently edited contents should be on git or a subsite, and
 | website_credits      | widget     |
 | why_emma             | github     |
 | treasurers_reports   | subsite    |
+
+## Welfare
+
+| Page              | Now        |
+|-------------------+------------|
+| bike_safety       | github     |
+| counselling       | github     |
+| cusu_welfare      | merged     |
+| disability        | merged     |
+| family            | merged     |
+| financial_support | github     |
+| general           | deprecated |
+| in_college        | merged     |
+| phone_numbers     | merged     |
+| pregnancy_test    | subsite    |
+| sexual_health     | merged     |
+| zero_tolerance    | github     |
