@@ -1,5 +1,5 @@
 ---
-title:  Housing  
+title:  College rooms
 author: MCR Committee  
 date:   27 Aug 2015  
 ...
