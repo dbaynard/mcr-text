@@ -2,7 +2,7 @@
 title:  Readme  
 author: David Baynard  
 date:   14 Sep 2015  
-...
+---
 
 This repository contains the main text items for the MCR website.
 This information will probably need updating fairly regularly.
@@ -18,7 +18,7 @@ subsite
 widget
 :   Self-contained, and can be moved wherever.
 
-git
+github
 :   Stored (and editable) on github.
 
 Generally the most frequently edited contents should be on git or a subsite, and the rest in widgets & templates.

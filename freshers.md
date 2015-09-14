@@ -2,7 +2,7 @@
 title:  Freshers  
 author: MCR Committee  
 date:   14 Sep 2015  
-...
+---
 
 # Freshers’ Week 2015
 

@@ -2,7 +2,7 @@
 title:  Dining  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 # Formal Hall
 

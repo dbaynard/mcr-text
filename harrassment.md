@@ -2,7 +2,7 @@
 title:  Sexual Harrassment  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 #Sexual Harrassment Policy
 

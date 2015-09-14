@@ -2,7 +2,7 @@
 title:  Financial support  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 # Financial Support
 
