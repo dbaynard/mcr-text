@@ -26,7 +26,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## About
 
 | Page                | Now     |
-|---------------------+---------|
+| ------------------- | ------- |
 | committee           | widget  |
 | election_candidates | subsite |
 | elections           | github  |
@@ -39,7 +39,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## Accommodation
 
 | Page                | Now       |
-|---------------------+-----------|
+| ------------------- | --------- |
 | costs               | github?   |
 | disability          | merged    |
 | general             | github    |
@@ -50,7 +50,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## Current students
 
 | Page            | Now             |
-|-----------------+-----------------|
+| --------------- | --------------- |
 | _               | deprecated      |
 | careers         | github          |
 | contact_numbers | widget          |
@@ -67,7 +67,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## Freshers
 
 | Page    | Now     |
-|---------+---------|
+| ------- | ------- |
 | guide   | subsite |
 | week    | github  |
 | welcome | widget  |
@@ -75,7 +75,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## Misc
 
 | Page                 | Now        |
-|----------------------+------------|
+| -------------------- | ---------- |
 | css                  | deprecated |
 | main                 | deprecated |
 | maintenance          | deprecated |
@@ -99,7 +99,7 @@ Generally the most frequently edited contents should be on git or a subsite, and
 ## Welfare
 
 | Page              | Now        |
-|-------------------+------------|
+| ----------------- | ---------- |
 | bike_safety       | github     |
 | counselling       | github     |
 | cusu_welfare      | merged     |
