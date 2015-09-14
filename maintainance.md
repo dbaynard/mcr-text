@@ -2,7 +2,7 @@
 title:  Fixing things!  
 author: MCR Committee  
 date:   14 Sep 2015  
-...
+---
 
 # Fixing things!
 

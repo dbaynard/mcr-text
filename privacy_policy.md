@@ -2,7 +2,7 @@
 title:  Privacy  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 # Emmanuel College MCR Website Privacy Policy
 

@@ -2,7 +2,7 @@
 title:  Accommodation  
 author: MCR Committee  
 date:   27 Aug 2015  
-...
+---
 
 # Graduate Accommodation at Emma
 

@@ -2,8 +2,8 @@
 title:  The Graduate Tutors  
 author: MCR Committee  
 date:   14 Sep 2015      
-...
-`
+---
+
 # The Graduate Tutors
 
 The College is responsible for the general welfare of graduate students,

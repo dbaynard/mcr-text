@@ -2,7 +2,7 @@
 title:  Why emma?  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 # Why Choose Emma?
 

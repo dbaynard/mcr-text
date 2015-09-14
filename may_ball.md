@@ -2,7 +2,7 @@
 title:  May ball  
 author: MCR Committee  
 date:   28 Aug 2015  
-...
+---
 
 # Emma May Ball and June Event
 
