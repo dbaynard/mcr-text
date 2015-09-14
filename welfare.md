@@ -1,7 +1,7 @@
 ---
 title:  Welfare
 author: MCR Committee  
-date:   28 Aug 2015  
+date:   14 Sep 2015  
 ...
 
 # Welfare
@@ -143,7 +143,7 @@ College Website Page:
 :   [Click
     here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=93 "Jeremy Caddick")
 
-#### Dr John Maclennan - Tutor for surnames L - Z
+#### Dr John Maclennan - Former Tutor for surnames L - Z
 
 Name
 :   Dr John Maclennan
@@ -157,6 +157,18 @@ Email
 College Website Page: 
 :   [Click
     here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=222 "John MacLennan")
+
+## Dr Catherine Rae - Tutor for surnames L - Z
+
+Name
+:   Dr Catherine Rae
+
+Email
+:   <cr18@cam.ac.uk>
+
+College Website Page: 
+:   [Click
+    here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=174 "Catherine Rae")
 
 ### Advisor to Women Students
 
@@ -525,9 +537,7 @@ Further information is available on the
 
 In the first instance, any student who feels that a disability is
 preventing them from making the most of their time at Emma should
-contact their graduate tutor, [Dr. John
-Maclennan](mailto:jcm1004@cam.ac.uk) or [Dr. Jeremy
-Caddick](mailto:jlc24@cam.ac.uk).
+contact their graduate tutor.
 
 The College also has two disability liaison officers, who ensure that
 all students receive adequate support, and are regularly in touch with

@@ -1,7 +1,7 @@
 ---
 title:  Fixing things!  
 author: MCR Committee  
-date:   27 Aug 2015  
+date:   14 Sep 2015  
 ...
 
 # Fixing things!
@@ -52,6 +52,5 @@ responsibility for College housing.
 
 If you are having trouble resolving any issue, we highly recommend you
 contact your graduate tutor; who can sometimes convince College to
-change its mind in your favour (the current graduate tutors, Jeremy
-Caddick and John Maclennan, are both excellent…).
+change its mind in your favour.
 

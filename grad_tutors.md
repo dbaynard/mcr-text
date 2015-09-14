@@ -1,7 +1,7 @@
 ---
 title:  The Graduate Tutors  
 author: MCR Committee  
-date:   27 Aug 2015  
+date:   14 Sep 2015      
 ...
 `
 # The Graduate Tutors
@@ -38,7 +38,7 @@ College Website Page:
 :   [Click
     here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=93 "Jeremy Caddick")
 
-## Dr John Maclennan - Tutor for surnames L - Z
+## Dr John Maclennan - Former Tutor for surnames L - Z
 
 Name
 :   Dr John Maclennan
@@ -53,4 +53,14 @@ College Website Page:
 :   [Click
     here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=222 "Jeremy Caddick")
 
+## Dr Catherine Rae - Tutor for surnames L - Z
 
+Name
+:   Dr Catherine Rae
+
+Email
+:   <cr18@cam.ac.uk>
+
+College Website Page: 
+:   [Click
+    here](http://www.emma.cam.ac.uk/teaching/fellows/display/?fellow=174 "Catherine Rae")
