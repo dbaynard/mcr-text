@@ -25,90 +25,90 @@ Generally the most frequently edited contents should be on git or a subsite, and
 
 ## About
 
-| Page                | Now     |
-| ------------------- | ------- |
-| committee           | widget  |
-| election_candidates | subsite |
-| elections           | github  |
-| grad_tutors         | widget  |
-| map                 | widget  |
-| room                | github  |
-| minutes             | subsite |
-| about               | widget  |
+| Page                | Now                      |
+| ------------------- | ------------------------ |
+| committee           | widget                   |
+| election_candidates | subsite                  |
+| elections           | [github](elections.md)   |
+| grad_tutors         | [widget](grad_tutors.md) |
+| map                 | widget                   |
+| room                | [github](mcr_room.md)    |
+| minutes             | subsite                  |
+| about               | [widget](about.md)       |
 
 ## Accommodation
 
-| Page                | Now       |
-| ------------------- | --------- |
-| costs               | github?   |
-| disability          | merged    |
-| general             | github    |
-| practical_aspects   | github    |
-| reviews             | subsite   |
-| specialarrangements | duplicate |
+| Page                | Now                            |
+| ------------------- | ------------------------------ |
+| costs               | [github?](rent.md)             |
+| disability          | merged                         |
+| general             | [github](accommodation.md)     |
+| practical_aspects   | [github](maintainance.md)      |
+| reviews             | subsite                        |
+| specialarrangements | duplicate                      |
 
 ## Current students
 
-| Page            | Now             |
-| --------------- | --------------- |
-| _               | deprecated      |
-| careers         | github          |
-| contact_numbers | widget          |
-| ecsu_shop       | widget          |
-| formal_hall     | github          |
-| gym             | github/subsite? |
-| laundry         | duplicate       |
-| magazines       | subsite/widget  |
-| mayball         | github          |
-| societies       | github          |
-| sport           | github          |
-| stash           | github/subsite? |
+| Page            | Now                         |
+| --------------- | --------------------------- |
+| _               | deprecated                  |
+| careers         | [github](careers.md)        |
+| contact_numbers | widget                      |
+| ecsu_shop       | widget                      |
+| formal_hall     | [github](dining.md)         |
+| gym             | [github/subsite?](gym.md)   |
+| laundry         | duplicate                   |
+| magazines       | subsite/widget              |
+| mayball         | [github](may_ball.md)       |
+| societies       | [merged](societies.md)      |
+| sport           | [merged](sport.md)          |
+| stash           | github/subsite?             |
 
 ## Freshers
 
-| Page    | Now     |
-| ------- | ------- |
-| guide   | subsite |
-| week    | github  |
-| welcome | widget  |
+| Page    | Now                   |
+| ------- | --------------------- |
+| guide   | subsite               |
+| week    | [github](freshers.md) |
+| welcome | widget                |
 
 ## Misc
 
-| Page                 | Now        |
-| -------------------- | ---------- |
-| css                  | deprecated |
-| main                 | deprecated |
-| maintenance          | deprecated |
-| mcr_constitution     | widget     |
-| menus                | widget     |
-| member_services      | subsite    |
-| bulletin             | subsite    |
-| mcr_documents        | deprecated |
-| presidents_reports   | subsite    |
-| privacy_policy       | widget     |
-| search               | widget     |
-| sidebar              | widget     |
-| grad_app             | widget     |
-| example_content      | deprecated |
-| prospective_glossary | github     |
-| website_credits      | widget     |
-| why_emma             | github     |
-| treasurers_reports   | subsite    |
-| suggestions          | subsite    |
+| Page                 | Now                   |
+| -------------------- | --------------------- |
+| css                  | deprecated            |
+| main                 | deprecated            |
+| maintenance          | deprecated            |
+| mcr_constitution     | widget                |
+| menus                | widget                |
+| member_services      | subsite               |
+| bulletin             | subsite               |
+| mcr_documents        | deprecated            |
+| presidents_reports   | subsite               |
+| privacy_policy       | widget                |
+| search               | widget                |
+| sidebar              | widget                |
+| grad_app             | widget                |
+| example_content      | deprecated            |
+| prospective_glossary | [github](glossary.md) |
+| website_credits      | widget                |
+| why_emma             | [github](why_emma.md) |
+| treasurers_reports   | subsite               |
+| suggestions          | subsite               |
 
 ## Welfare
 
-| Page              | Now        |
-| ----------------- | ---------- |
-| bike_safety       | github     |
-| counselling       | github     |
-| cusu_welfare      | merged     |
-| disability        | merged     |
-| family            | merged     |
-| financial_support | github     |
-| general           | deprecated |
-| in_college        | merged     |
-| phone_numbers     | merged     |
-| pregnancy_test    | subsite    |
-| sexual_health     | merged     |
-| zero_tolerance    | github     |
+| Page              | Now                            |
+| ----------------- | ------------------------------ |
+| bike_safety       | [github](cycling.md)           |
+| counselling       | [merged](welfare.md)           |
+| cusu_welfare      | [merged](welfare.md)           |
+| disability        | [merged](welfare.md)           |
+| family            | [merged](welfare.md)           |
+| financial_support | [github](financial_support.md) |
+| general           | deprecated                     |
+| in_college        | [merged](welfare.md)           |
+| phone_numbers     | [merged](welfare.md)           |
+| pregnancy_test    | subsite                        |
+| sexual_health     | [merged](welfare.md)           |
+| zero_tolerance    | [github](harrassment.md)       |
